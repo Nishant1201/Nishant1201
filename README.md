@@ -2,7 +2,7 @@
 - 👀 I’m interested in Numerical Methods and Scientific Programming, Theoretical and Applied Aerodynamics, Computational Fluid Dynamics, Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning applications of Machine learning to Computational Fluid Dynamics.
 - 💞️ I’m looking to collaborate on Machine Learning for fluid flow applications.
-- 📫 You can reach me at nishant.aesidel@gmail.com
+- 📫 You can reach me at Nishant.Soni@amd.com nishant.aesidel@gmail.com
 
 <!---
 Nishant1201/Nishant1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
